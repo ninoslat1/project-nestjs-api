@@ -1,0 +1,6 @@
+export enum ERole {
+  INTERN = "INTERN",
+  CONTRACT = "CONTRACT",
+  PROHIRE = "PROHIRE",
+  ORGANIC = "ORGANIC"
+}
